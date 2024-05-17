@@ -1,0 +1,26 @@
+{
+    "name": "lmmlwen/cyjg_message_service",
+    "description": "chang yu jun ge TECH. Message-service",
+    "version": "1.0.0",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujianxin",
+            "email": "jiujianxin0122@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3",
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Message\\": "src/"
+        },
+        "files": [
+            "src/Helpers/functions.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
