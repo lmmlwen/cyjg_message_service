@@ -19,15 +19,15 @@ class ComposerStaticInit4a35c7e0693d48389586aadfc9ac109d
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Http\\Client\\' => 16,
         ),
-        'M' => 
-        array (
-            'Message\\' => 8,
-        ),
         'G' => 
         array (
             'GuzzleHttp\\Psr7\\' => 16,
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
+        ),
+        'C' => 
+        array (
+            'ChangYuJunGe\\Message\\' => 21,
         ),
     );
 
@@ -41,10 +41,6 @@ class ComposerStaticInit4a35c7e0693d48389586aadfc9ac109d
         array (
             0 => __DIR__ . '/..' . '/psr/http-client/src',
         ),
-        'Message\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
         'GuzzleHttp\\Psr7\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
@@ -56,6 +52,10 @@ class ComposerStaticInit4a35c7e0693d48389586aadfc9ac109d
         'GuzzleHttp\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
+        ),
+        'ChangYuJunGe\\Message\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

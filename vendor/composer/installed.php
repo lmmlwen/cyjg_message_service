@@ -1,7 +1,7 @@
 <?php return array(
     'root' => array(
         'name' => 'lmmlwen/cyjg_message_service',
-        'pretty_version' => '1.0.0+no-version-set',
+        'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => null,
         'type' => 'project',
@@ -38,7 +38,7 @@
             'dev_requirement' => false,
         ),
         'lmmlwen/cyjg_message_service' => array(
-            'pretty_version' => '1.0.0+no-version-set',
+            'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => null,
             'type' => 'project',

@@ -1,6 +1,6 @@
 <?php
 
-namespace Message\Dingtalk;
+namespace ChangYuJunGe\Message\Dingtalk;
 
 class Test
 {
